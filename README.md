@@ -5,7 +5,7 @@ The project is a portfolio website where recruiters or anyone can view the proje
 
 ## Screenshots
 
-<img width="1516" height="2109" alt="ScreenShot Tool -20260625140610" src="https://github.com/user-attachments/assets/a9476637-6d7c-4d5f-948a-8df91198f1cf" />
+<img width="1920" height="869" alt="ScreenShot Tool -20260625142256" src="https://github.com/user-attachments/assets/6cc58ecd-04ec-4f27-9ddf-75c285fa4d60" />
 
 
 
